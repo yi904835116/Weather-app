@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/dcf2473f658beac2e1fecfeba20a9978db7323cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_346cbcb57cc67d040fddeedc814196337e30c1bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/ab8e0714d85951f0798fdb96abafea8cbaad3755/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2344557c84adfef42c00cfe30e70c22b228c6c65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/8c074e268ff463b420f81fb356d50429cf5ab5d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35a019c4f2f04b7485919aa30e3774d98869c115/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/0f3c2101e29931a321a8727136093571e61767c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7e46f0263235bc0dfcb377c0eaaca41a98f785c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/0cd94169be0a083446e1ed39a4f9e091fad82c40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c068a13ac25fdf011883197a59717e4b7e69a524/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/d97b9b2c87e936e171c8848c57150110414fe9ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e405ac4369fe9155dadc3fd23cf78a46478ef60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.0/baseLibrary-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf0b6ab1d94f770655f81657b93fce2ba4cd331d">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.3.0_3d8a92b3f03695a50c7548f68422f80006780753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/967c780d1e4ce17d3e11142b312dddc2506a8378/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2960e6650a49b796a0159d156eb4200df1674d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/0389e9154bf63d30b00856b0fe722c43edcb0a30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6a135ddfc670db6c5c8edec0c90b430ff535a91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6239cc1c405c930f896270e87c08f7b07e5f86ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/df412c2941135d516298f38313a833ec482a1828/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16a3e3f6c040327669b0785caefcbb8e338d2104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/d5eb7214147e31639c1b05a3736566a78175bb70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdd6b1d26c6847d0949a38c23834300f9d85ee52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/864681fa7cab20b5fb31d522e4d9547d7ad483df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5186d67338523008f3ad8b5823d5be7525ca8671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/3bf0dfcf65b7e139e504f8d9992f1fdaa9e4f98b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c15ff01ef82372af154250b69d49ea0080893db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b666a8f7600226005875fd9b8496f7a3ee26741">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f7059d9136265405943fa40a93c11ca873daf555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/9436c3b87d661ac140050e7d27a188358f3019e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f686216bcab56719b6ef99e312cfa0e4cc1ac7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/ead77aa52fad147d306ca07aa27a76e00cd436a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bcc5d07e3c05d87798e602ad1e6d2a28ce0782d">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c07a040b4ab7b4a05316b096bde0d56d6be7420f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/.android/build-cache/bf615e3eaeb821dbe0a9ddf452b6b9abe7f54de1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13c26d64375c13b7a1f39e730dd8cfcf977c4fd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yizhaoyang/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Users/yizhaoyang/Desktop/Udacity/Android/ud851-Sunshine/S12.04-Solution-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta3_d7dae312ac9cc19d8c9ed082dc70732d0d28f578/classes.dex" />
+    </item>
+
+</items>
