@@ -1,19 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2016 The Android Open Source Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   - This layout displays a given day's primary weather information, such as the date of the      -
@@ -43,15 +28,6 @@
             tools:layout_editor_absoluteX="192dp"
             tools:layout_editor_absoluteY="0dp"/>
 
-        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-         - Selected day's date                                                                   -
-         -                                                                                       -
-         - You may notice that the line android:fontFamily="sans-serif" is highlighted in        -
-         - yellow. The reason for the highlighted line is that the fontFamily attribute is not   -
-         - available on versions of Android before 16, and our minimum supported version of      -
-         - Android is 10. This - particular issue won't break the app, but you should note that  -
-         - this attribute will be - ignored on devices that run an Android version less than 16. -
-         - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
         <TextView
             android:id="@+id/date"
             android:layout_width="wrap_content"
